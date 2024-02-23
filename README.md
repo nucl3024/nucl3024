@@ -7,5 +7,6 @@ CCNA, Python
 Encargado tecnologia de la informacion
 - server windows and linux
 - dev Python
+
 ### Proyectos
-......
+
